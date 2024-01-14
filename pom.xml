@@ -15,6 +15,7 @@
     <description>kafka-realworld-study</description>
     <modules>
         <module>kafka-producer-wikimedia</module>
+        <module>kafka-consumer-database</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
